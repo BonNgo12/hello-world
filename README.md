@@ -1,2 +1,4 @@
 # hello-world
-First repository
+First repository 
+
+my name is ngo manh khuong
